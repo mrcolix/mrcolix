@@ -30,7 +30,7 @@ niri Wayland compositor.
      ▸ Now exploring — GitOps (ArgoCD) · Prometheus & OpenTelemetry · Go for ops tooling
      ▸ Ask me about — cluster provisioning · pipeline design · dotfiles
 
-ààà $ cat /etc/stack
+### $ cat /etc/stack
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,ansible,terraform,jenkins,git,python,grafana,vim,vscode,nginx&perline=7&theme=dark" />
@@ -84,7 +84,7 @@ Set it up in two minutes with the snake.yml workflow (see the installation guide
   </picture>
 </div>
 
-$ ssh mrcolix@linkedin
+### $ ssh mrcolix@linkedin
 <div align="center">
   <a href="https://www.linkedin.com/in/paolo-colia-5663962bb/">
     <img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
